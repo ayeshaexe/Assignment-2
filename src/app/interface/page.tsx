@@ -1,6 +1,6 @@
-interface type  {
+interface Data  {
     name: string,
     population: number,
     capital: string
 }
-export default type;
+export default Data;
